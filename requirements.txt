@@ -1,0 +1,10 @@
+# Core Data Manipulation & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Statistical Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Embedded Relational Database (Built-in with Python Standard Library)
+# sqlite3
